@@ -1,0 +1,3 @@
+Hey guys this is a github repo that will help hyou getting started with node.js.You Just need to have node.js installed in your local system 
+To check it open your terminal and just type node-v,if you get an version then you are good go.Its also recommended to install npm.
+A LTS version of node is recomended.
